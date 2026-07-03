@@ -41,7 +41,7 @@ function Login({ onLoginSuccess, onGoToRegister }) {
             />
           </div>
           <button type="submit" className="btn btn-primary" style={{ width: '100%', height: '46px' }}>
-            <Key size={18} /> Entrar com OAuth 2.0
+            <Key size={18} /> Entrar 
           </button>
         </form>
         <div className="auth-footer">

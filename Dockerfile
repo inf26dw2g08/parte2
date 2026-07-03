@@ -1,5 +1,5 @@
 # Imagem base oficial do Node.js leve
-FROM node:18-alpine
+FROM node:20-alpine
 
 # Diretório de trabalho dentro do contentor
 WORKDIR /usr/src/app
